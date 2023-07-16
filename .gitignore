@@ -40,3 +40,5 @@ build/
 ### 排除属性文件 ###
 *.properties
 src/main/resources/mail.properties
+
+.idea/
